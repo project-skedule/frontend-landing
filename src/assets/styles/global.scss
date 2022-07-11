@@ -1,0 +1,8 @@
+@use "theming";
+@use "reset";
+
+:host {
+	box-sizing: border-box;
+}
+
+// Styles here are applied to all pages and components
